@@ -82,7 +82,7 @@
                 "sha256:f3c5fd51747d450d4dcf6f923c81f78f811aab8205fda64b0aba34a4e48b0745"
             ],
             "markers": "python_version >= '3.4'",
-            "version": "==1.25.7"
+            "version": "==1.26.5"
         }
     },
     "develop": {
@@ -114,7 +114,7 @@
                 "sha256:762d79a62b6aa96b04971e920543f558dfbeedc0468b899303c080c8068d4ac2"
             ],
             "index": "pypi",
-            "version": "==7.10.2"
+            "version": "==7.16.3"
         },
         "ipython-genutils": {
             "hashes": [
@@ -171,7 +171,7 @@
                 "sha256:2a3fe295e54a20164a9df49c75fa58526d3be48e14aceba6d6b1e8ac0bfd6f1b",
                 "sha256:98c8aa5a9f778fcd1026a17361ddaf7330d1b7c62ae97c3bb0ae73e0b9b6b0fe"
             ],
-            "version": "==2.5.2"
+            "version": "==2.7.4"
         },
         "six": {
             "hashes": [
